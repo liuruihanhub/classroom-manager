@@ -1,0 +1,29 @@
+{
+  "browser": "Google Chrome (local executable)",
+  "firstUse": {
+    "heading": true,
+    "localBoundary": true,
+    "overwriteWarning": true,
+    "cloudNotAssumed": true
+  },
+  "health": {
+    "status": "同步状态\n未配置云同步\n没有待处理错误",
+    "revision": "当前云端版本号\n—\n本地模式没有云端版本号",
+    "pending": "本机待同步\n0\n没有排队中的修改",
+    "safety": "本机安全副本\n0\n每个账号最多保留最近 3 份"
+  },
+  "backup": {
+    "suggestedFilename": "课堂管理完整备份-2026-08-12.json",
+    "version": "2.0",
+    "hasSettings": true
+  },
+  "reopened": true,
+  "guideDoesNotRepeat": true,
+  "mobile": {
+    "innerWidth": 375,
+    "clientWidth": 375,
+    "scrollWidth": 375,
+    "overflow": false,
+    "minVisibleButtonHeight": 48
+  }
+}

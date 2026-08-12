@@ -1,0 +1,54 @@
+{
+  "initial": {
+    "title": "教师课堂管理系统",
+    "heading": "课堂工作台",
+    "version": "教师课堂管理系统 v2.0-alpha"
+  },
+  "goBackup": {
+    "ok": true,
+    "text": "⚙备份与设置"
+  },
+  "fixtureClick": {
+    "ok": true,
+    "text": "载入虚构数据集"
+  },
+  "fixtureState": {
+    "toast": "虚构验收数据已载入",
+    "classes": "仅用于验收演示"
+  },
+  "dashboardAction": "继续最近课堂",
+  "firstClick": {
+    "ok": true,
+    "text": "继续最近课堂"
+  },
+  "workspaceLoaded": {
+    "heading": true,
+    "context": "2026—2027学年第一学期｜新能源1班｜新能源汽车结构与原理",
+    "reselectCount": 1
+  },
+  "attendanceAction": "开始考勤",
+  "secondClick": {
+    "ok": true,
+    "text": "开始考勤"
+  },
+  "editorState": {
+    "editor": true,
+    "saveButton": true,
+    "studentRows": 60
+  },
+  "attendanceChange": true,
+  "attendanceSaved": {
+    "toast": "考勤已保存在本机；云模式会继续核对云端版本",
+    "status": "本节考勤已保存"
+  },
+  "winner": "虚构学生1-29",
+  "beforePreset": 3,
+  "presetSaved": "已为 虚构学生1-29 记录“主动回答”",
+  "mobile": {
+    "innerWidth": 375,
+    "clientWidth": 375,
+    "scrollWidth": 375,
+    "overflow": false,
+    "minVisibleButtonHeight": 48
+  }
+}

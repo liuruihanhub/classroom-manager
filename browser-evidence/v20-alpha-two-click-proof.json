@@ -1,0 +1,29 @@
+{
+  "browser": "Google Chrome (local executable, Playwright controller)",
+  "url": "http://127.0.0.1:4177/",
+  "recentClassToEditableAttendance": {
+    "firstAction": "继续最近课堂",
+    "secondAction": "开始考勤",
+    "primaryClicks": 2,
+    "editableAttendance": {
+      "rows": 60,
+      "enabledSelectors": 120
+    },
+    "pass": true
+  },
+  "drawToPerformanceRecord": {
+    "winner": "虚构学生1-22",
+    "performanceClicks": 2,
+    "beforeEventCount": 0,
+    "afterEventCount": 1,
+    "added": 1,
+    "pass": true
+  },
+  "mobile": {
+    "innerWidth": 375,
+    "clientWidth": 375,
+    "scrollWidth": 375,
+    "overflow": false,
+    "minButtonHeight": 48
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "browser": "Google Chrome 本机正式版 + Playwright 持久资料",
+  "build": "2.0-rc1 dist",
+  "waitingProtocol": {
+    "registration": {
+      "active": "activated",
+      "waiting": "installed",
+      "controlled": true
+    },
+    "caches": [
+      "workbuddy-classroom-v2.0-beta2",
+      "workbuddy-classroom-v2.0-rc1"
+    ],
+    "oldLazyValue": "beta2-lazy-ok",
+    "oldLazyCachedInBeta2": true,
+    "updateMessage": "新版本已下载",
+    "pass": true
+  },
+  "activation": {
+    "registration": {
+      "active": "activated",
+      "waiting": false,
+      "controlled": true
+    },
+    "caches": [
+      "workbuddy-classroom-v2.0-rc1"
+    ],
+    "pass": true
+  },
+  "apiBypass": {
+    "requestSucceeded": true,
+    "cached": false,
+    "pass": true
+  },
+  "lazyOffline": {
+    "cachedBeforeStop": {
+      "dataHealth": true,
+      "studentSearch": true
+    },
+    "repeat20": {
+      "attempts": 20,
+      "hits": 20,
+      "results": [
+        {
+          "cycle": 1,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 2,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 3,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 4,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 5,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 6,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 7,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 8,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 9,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 10,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 11,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 12,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 13,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 14,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 15,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 16,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 17,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 18,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 19,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        },
+        {
+          "cycle": 20,
+          "cacheWritten": true,
+          "offlineOpened": true,
+          "dataUnchanged": true
+        }
+      ],
+      "pass": true
+    },
+    "networkUnavailable": true,
+    "dataHealthOpened": true,
+    "studentSearchOpened": true,
+    "searchResult": "找到 1 条结果",
+    "title": "教师课堂管理系统",
+    "controlled": true,
+    "pass": true
+  },
+  "dataIntegrity": {
+    "waitingBytesEqual": true,
+    "activationBytesEqual": true,
+    "offlineBytesEqual": true,
+    "pass": true
+  },
+  "runtime": {
+    "pageErrors": [],
+    "pass": true
+  },
+  "pass": true
+}

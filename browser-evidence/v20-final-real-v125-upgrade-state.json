@@ -1,0 +1,53 @@
+{
+  "browser": "Google Chrome 本机正式版 + Playwright 持久资料",
+  "sourceArchive": "classroom-manager-v1.2.5-static.zip",
+  "sourceArchiveSha256": "93550B0A62F36E629EE0C03FE08D2C10A90A4D046529C8F7530215F32BB08AB0",
+  "sourceWorker": {
+    "cache": "workbuddy-classroom-v1.2.5",
+    "oldLazyPath": "/assets/browser-BN8lfA9r.js",
+    "oldLazyArchiveBytes": 147,
+    "oldLazyNotPreviouslyCached": true
+  },
+  "waiting": {
+    "caches": [
+      "workbuddy-classroom-v1.2.5",
+      "workbuddy-classroom-v2.0"
+    ],
+    "oldCacheRetained": true,
+    "currentWorkerWaiting": true,
+    "newServerOldAssetStatus": 200,
+    "oldLazyLoadedAfterDeploy": true,
+    "oldPageHeading": "总览",
+    "dataBytesEqual": true,
+    "pass": true
+  },
+  "activation": {
+    "caches": [
+      "workbuddy-classroom-v2.0"
+    ],
+    "oldCacheDeleted": true,
+    "currentCacheOnly": true,
+    "dataBytesEqualBeforeTeacherMigration": true,
+    "pass": true
+  },
+  "migration": {
+    "explicitTeacherAction": true,
+    "version": "2.0",
+    "semesters": 2,
+    "classes": 6,
+    "rosterEntries": 720,
+    "pass": true
+  },
+  "finalUi": {
+    "dataHealthOpened": true,
+    "studentSearchOpened": true,
+    "dataHealthCached": true,
+    "studentSearchCached": true,
+    "pass": true
+  },
+  "runtime": {
+    "pageErrors": [],
+    "pass": true
+  },
+  "pass": true
+}

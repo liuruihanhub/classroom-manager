@@ -1,0 +1,96 @@
+{
+  "browser": "Google Chrome 本机正式版 + Playwright",
+  "url": "http://127.0.0.1:4179/",
+  "build": "dist（未配置云同步）",
+  "archivedExcluded": {
+    "resultCount": 0,
+    "pass": true
+  },
+  "semesterSelection": {
+    "selected": "sem_2026",
+    "options": [
+      "请选择当前要查找的学期",
+      "另一使用中学期",
+      "2026—2027学年第一学期（课堂工作台当前学期）"
+    ],
+    "workspaceOptionMarked": true,
+    "pass": true
+  },
+  "sameNameAndXss": {
+    "count": 2,
+    "resultIds": [
+      "search-result-stu_sem_2026_1_1",
+      "search-result-stu_sem_2026_2_1"
+    ],
+    "courseCounts": [
+      2,
+      2
+    ],
+    "classesShown": true,
+    "rawTextVisible": true,
+    "injectedImageCount": 0,
+    "executed": false,
+    "pass": true
+  },
+  "multipleCourses": {
+    "choiceCards": 2,
+    "noSilentSelection": true,
+    "pass": true
+  },
+  "returnState": {
+    "query": "同名学生",
+    "focused": true,
+    "pass": true
+  },
+  "targetedAttendance": {
+    "context": "2026—2027学年第一学期 · 新能源1班 · 新能源汽车结构与原理",
+    "rows": 12,
+    "headingContainsRawName": true,
+    "pass": true
+  },
+  "targetedScores": {
+    "context": "2026—2027学年第一学期 · 新能源1班 · 新能源汽车结构与原理",
+    "rows": 3,
+    "pass": true
+  },
+  "keyboardScroll": {
+    "activeIndex": 25,
+    "visible": true,
+    "pass": true
+  },
+  "focusTrap": {
+    "tabWrapped": true,
+    "shiftTabWrapped": true,
+    "pass": true
+  },
+  "emptyStudentNumber": {
+    "resultCount": 0,
+    "pass": true
+  },
+  "zeroCourse": {
+    "status": "虚构学生6-01所在班级尚未关联课程，不能打开明细；请先到“基础数据”关联课程。",
+    "stayedInResults": true,
+    "pass": true
+  },
+  "semesterSwitch": {
+    "selected": "sem_2025",
+    "queryCleared": true,
+    "status": "另一使用中学期共 360 名学生",
+    "pass": true
+  },
+  "mobile": {
+    "innerWidth": 375,
+    "clientWidth": 375,
+    "scrollWidth": 375,
+    "overflow": false,
+    "minVisibleButtonHeight": 48,
+    "dialogWidth": 375,
+    "pass": true
+  },
+  "runtime": {
+    "pageErrors": [],
+    "failedResponses": [],
+    "pass": true
+  },
+  "pass": true
+}

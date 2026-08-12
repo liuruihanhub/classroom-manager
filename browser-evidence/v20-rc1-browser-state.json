@@ -1,0 +1,165 @@
+{
+  "browser": "Google Chrome 本机正式版 + Playwright",
+  "url": "http://127.0.0.1:4180/",
+  "build": "2.0-rc1 dist（本地模式）",
+  "semantics": [
+    {
+      "controlCount": 1,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "首次说明",
+      "pass": true
+    },
+    {
+      "controlCount": 11,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "总览",
+      "pass": true
+    },
+    {
+      "controlCount": 13,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "课堂工作台",
+      "pass": true
+    },
+    {
+      "controlCount": 142,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "基础数据",
+      "pass": true
+    },
+    {
+      "controlCount": 148,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "考勤",
+      "pass": true
+    },
+    {
+      "controlCount": 207,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "平时分",
+      "pass": true
+    },
+    {
+      "controlCount": 72,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "快速抽名",
+      "pass": true
+    },
+    {
+      "controlCount": 14,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "报表",
+      "pass": true
+    },
+    {
+      "controlCount": 16,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "数据健康与恢复",
+      "pass": true
+    },
+    {
+      "controlCount": 2,
+      "unnamedButtons": [],
+      "unlabeledFields": [],
+      "duplicateIds": [],
+      "skippedHeadings": [],
+      "page": "学生个人明细",
+      "pass": true
+    }
+  ],
+  "viewports": {
+    "desktop1440": {
+      "width": 1440,
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "overflow": false
+    },
+    "tablet768": {
+      "innerWidth": 768,
+      "clientWidth": 768,
+      "scrollWidth": 768,
+      "overflow": false,
+      "tableCanScrollInside": false,
+      "visibleButtonMinHeight": 34,
+      "pass": true
+    },
+    "zoom200Equivalent": {
+      "innerWidth": 720,
+      "clientWidth": 720,
+      "scrollWidth": 720,
+      "overflow": false,
+      "tableCanScrollInside": true,
+      "visibleButtonMinHeight": 48,
+      "pass": true
+    },
+    "mobile375": {
+      "innerWidth": 375,
+      "clientWidth": 375,
+      "scrollWidth": 375,
+      "overflow": false,
+      "tableCanScrollInside": true,
+      "visibleButtonMinHeight": 48,
+      "pass": true
+    }
+  },
+  "privacy": {
+    "workspaceProjection": {
+      "hasScore": false,
+      "hasSensitiveNote": false
+    },
+    "drawProjection": {
+      "hasScore": false,
+      "hasSensitiveNote": false
+    },
+    "pass": true
+  },
+  "print": {
+    "sidebar": "none",
+    "topbar": "none",
+    "toolbar": "none",
+    "filters": "none",
+    "report": "block",
+    "privacyVisible": false,
+    "pass": true
+  },
+  "runtime": {
+    "pageErrors": [],
+    "failedResponses": [],
+    "pass": true
+  },
+  "reducedMotion": {
+    "matches": true,
+    "toastAnimationDuration": "",
+    "rulePresent": true,
+    "pass": true
+  },
+  "semanticsPass": true,
+  "pass": true
+}

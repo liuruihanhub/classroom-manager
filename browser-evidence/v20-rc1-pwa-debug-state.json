@@ -1,0 +1,84 @@
+{
+  "browser": "Google Chrome 本机正式版 + Playwright",
+  "build": "2.0-rc1 dist",
+  "upgrade": {
+    "before": [
+      "workbuddy-classroom-v2.0-beta2"
+    ],
+    "after": [
+      "workbuddy-classroom-v2.0-rc1"
+    ],
+    "registration": {
+      "controlled": true,
+      "active": "activated",
+      "waiting": false
+    },
+    "pass": true
+  },
+  "apiBypass": {
+    "requestSucceeded": true,
+    "cached": false,
+    "pass": true
+  },
+  "lazyOffline": {
+    "cachedBeforeStop": {
+      "dataHealth": false,
+      "studentSearch": false
+    },
+    "afterReload": {
+      "bodyText": "课\n课堂管理\n本地数据工作台\n⌂\n总览\n▶\n课堂工作台\n▦\n基础数据\n✓\n考勤\n+\n平时分\n◎\n快速抽名\n▤\n报表\n⚙\n数据健康与恢复\n未配置云同步\n设备内保存 · 手动 JSON 迁移\n\n教师课堂管理系统 v2.0-rc1\n\n总览\n查找学生 Ctrl K\n●\n未配置云同步\n\n今天 · 8月12日星期三\n\n继续 新能源1班 · 新能源汽车结构与原理\n\n一次选择班级课程，即可连续完成考勤、抽名、课堂表现和预警查看。当前是本地模式，数据只保存在这个浏览器。\n\n继续最近课堂\n班级\n6\n360 名单人次\n课程\n2\n24 个班级课程\n考勤表\n13\n按节统计7种状态\n预警\n3\n缺勤 / 迟到 / 早退\n\n当前状态\n\n使用中学期\n2026—2027学年第一学期\n\n12 个班级课程组合正在使用\n\n数据安全\n\n备份提醒\n\n还没有独立 JSON 备份。\n\n立即备份",
+      "caches": {
+        "names": [
+          "workbuddy-classroom-v2.0-rc1"
+        ],
+        "entries": [
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/index.html"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/manifest.webmanifest"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/favicon.svg"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/apple-touch-icon.png"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/icon-192.png"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/icon-512.png"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/assets/index-BkWuJLrw.css"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/assets/index-FjemNxSN.js"
+          },
+          {
+            "cache": "workbuddy-classroom-v2.0-rc1",
+            "url": "http://127.0.0.1:4181/assets/rolldown-runtime-B0Z9INg1.js"
+          }
+        ]
+      }
+    },
+    "afterDataHealthClick": {
+      "bodyText": "课\n课堂管理\n本地数据工作台\n⌂\n总览\n▶\n课堂工作台\n▦\n基础数据\n✓\n考勤\n+\n平时分\n◎\n快速抽名\n▤\n报表\n⚙\n数据健康与恢复\n未配置云同步\n设备内保存 · 手动 JSON 迁移\n\n教师课堂管理系统 v2.0-rc1\n\n数据健康与恢复\n查找学生 Ctrl K\n●\n未配置云同步\n\n正在打开数据健康与恢复…",
+      "pageErrors": []
+    }
+  },
+  "runtime": {}
+}

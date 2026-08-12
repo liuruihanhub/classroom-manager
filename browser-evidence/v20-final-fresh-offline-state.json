@@ -1,0 +1,34 @@
+{
+  "browser": "Google Chrome 本机正式版 + Playwright 持久资料",
+  "install": {
+    "cacheNames": [
+      "workbuddy-classroom-v2.0"
+    ],
+    "jsCssCount": 16,
+    "jsCssBytes": 1790659,
+    "requiredChunks": {
+      "Onboarding": true,
+      "ClassroomWorkspace": true,
+      "DataHealth": true,
+      "StudentSearch": true
+    },
+    "appWasNotOpened": true,
+    "controlled": true,
+    "pass": true
+  },
+  "offlineFirstUse": {
+    "onboardingOpened": true,
+    "workspaceOpened": true,
+    "dataHealthOpened": true,
+    "studentSearchOpened": true,
+    "networkUnavailable": true,
+    "title": "教师课堂管理系统",
+    "controlled": true,
+    "pass": true
+  },
+  "runtime": {
+    "pageErrors": [],
+    "pass": true
+  },
+  "pass": true
+}

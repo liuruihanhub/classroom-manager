@@ -1,0 +1,22 @@
+{
+  "browser": "Google Chrome 本机正式版 + Playwright 持久资料",
+  "sourceArchive": "classroom-manager-v1.2.5-static.zip",
+  "sourceArchiveSha256": "93550B0A62F36E629EE0C03FE08D2C10A90A4D046529C8F7530215F32BB08AB0",
+  "sourceWorker": {
+    "cache": "workbuddy-classroom-v1.2.5",
+    "oldLazyPath": "/assets/browser-BN8lfA9r.js",
+    "oldLazyArchiveBytes": 147,
+    "fetchedBytes": 147,
+    "cached": true
+  },
+  "waiting": {},
+  "activation": {},
+  "migration": {},
+  "finalUi": {},
+  "runtime": {},
+  "failure": "page.evaluate: TypeError: Failed to fetch dynamically imported module: http://127.0.0.1:4182/assets/browser-BN8lfA9r.js",
+  "failurePage": {
+    "url": "http://127.0.0.1:4182/",
+    "bodyText": "课\n课堂管理\n本地数据工作台\n⌂\n总览\n▦\n基础数据\n✓\n考勤\n+\n平时分\n◎\n快速抽名\n▤\n报表\n⚙\n备份与设置\n未配置云同步\n设备内保存 · 手动 JSON 迁移\n\n教师课堂管理系统 v1.2.5\n\n总览\n●\n未配置云同步\n\n今天 · 8月12日星期三\n\n先完成今天的课堂记录\n\n考勤按节保存并自动参与平时分计算。当前是本地模式，数据只保存在这个浏览器。\n\n开始考勤\n班级\n0\n0 名已录入学生\n课程\n0\n0 个班级课程\n考勤表\n0\n按节统计7种状态\n预警\n0\n缺勤 / 迟到 / 早退\n\n当前状态\n\n本学期概览\n尚未创建在用学期\n\n数据安全\n\n备份提醒\n\n还没有独立 JSON 备份。\n\n立即备份"
+  }
+}
